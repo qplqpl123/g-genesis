@@ -1,2 +1,1 @@
-# g-genesis
-Deploy and mint NFT on StarkNet
+# Deploy contract and mint NFT on Starknet
